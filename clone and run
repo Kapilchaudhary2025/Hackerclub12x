@@ -1,0 +1,14 @@
+git clone https://github.com/kapil44-tech/hacker-club.git
+cd hacker-club
+run in terminal these commands 
+git add .
+git commit -m "Initial commit of Hacker Club by Kapil"
+git push origin main
+Installation Script:
+sudo ln -s /path/to/hacker_club.py /usr/local/bin/hacker_club
+hacker_club
+git clone https://github.com/kapil44-tech/hacker-club.git
+cd hacker-club
+chmod +x install_hacker_club.sh
+./install_hacker_club.sh
+python3 hacker_club.py
